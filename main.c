@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 //	{
 //		printf("%f\n", arr[i]);
 //	}
-    char *arr[] = { "ass", "boob", "Cum", "dick" };
+    char *arr[] = { "test", "apple", "vagrant", "Wii U" };
     printf("%lu %lu %lu\n", len(arr), sizeof(arr), sizeof(arr[0]));
     sortA(arr);
     for (int i = 0; i < 5; i++)
