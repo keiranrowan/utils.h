@@ -10,4 +10,5 @@ utils.h is a collection of utility functions for C applications.
 ```
 sortA   -> (array) -> Type agnostic ascending sort
 sortZ   -> (array) -> Type agnostic descending sort
+len     -> (array) -> Returns the length of the array
 ```
