@@ -1,0 +1,5 @@
+language: c
+os:
+- linux
+script:
+  - gcc -o test.out utils.c utils.h main.c
